@@ -101,14 +101,14 @@ Example Outputs
 Example Disassembly Output:
 
 makefile
-Copy code
+
 0x1000: mov eax, ebx
 0x1003: add eax, 5
 ...
 Example Report (JSON):
 
 json
-Copy code
+
 {
     "instructions": [
         "0x1000: mov eax, ebx",
